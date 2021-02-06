@@ -14,3 +14,18 @@ div {
   padding: 50px;
   margin: 20px;
 }
+h1 {
+  background-color: green;
+}
+
+h2 {
+  background-color: lightblue;
+}
+
+p {
+  background-color: yellow;
+}
+h1 {
+  background-color: green;
+  opacity: 0.3;
+}
