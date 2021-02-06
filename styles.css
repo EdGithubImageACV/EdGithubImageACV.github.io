@@ -41,3 +41,17 @@ h4 {
   background-color: rgb(48, 158, 213);
   opacity: 2;
 }
+h6 {
+  color: rgb(225, 255, 0);
+  font-family: malgun gothic;
+  font-size: 300%;
+  background-color: rgb(217, 180, 253);
+  opacity: 2;
+}
+h7 {
+  color: rgb(225, 255, 0);
+  font-family: malgun gothic;
+  font-size: 300%;
+  background-color: rgb(217, 180, 253);
+  opacity: 2;
+}
