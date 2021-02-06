@@ -3,7 +3,6 @@ h1 {
   font-family: verdana;
   font-size: 300%;
   background-color: green;
-    background-color: green;
   opacity: 0.3;
 }
 p {
@@ -15,4 +14,16 @@ p {
 
 h2 {
   background-color: lightblue;
+}
+
+body {
+  background-color: grey;
+}
+
+.test{
+    height:156px;
+    width:250px;
+	   background-color: yellow;
+	     font-family: verdana;
+  font-size: 300%;
 }
