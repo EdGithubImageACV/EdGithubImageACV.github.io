@@ -55,9 +55,16 @@ h7 {
   background-color: rgb(217, 180, 253);
   opacity: 2;
 }
+h10 {
+  color: rgb(225, 255, 0);
+  font-family: malgun gothic;
+  font-size: 1000%;
+  background-color: rgb(217, 180, 253);
+  opacity: 0.01;
+}
 body {
-  background-image: url('1071247.jpg');
+  background-image: url('1125589.jpg');
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-size: cover;
 }
