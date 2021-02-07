@@ -1,0 +1,62 @@
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+  background-color: green;
+  opacity: 0.3;
+}
+p {
+  color: black;
+  font-family: tahoma;
+  font-size: 160%;
+}
+
+h2 {
+  background-color: lightblue;
+}
+
+body {
+  background-color: grey;
+}
+
+.test{
+    height:156px;
+    width:250px;
+	   background-color: yellow;
+	     font-family: verdana;
+  font-size: 300%;
+}
+.test2{
+    height:200px;
+    width:300px;
+	   background-color: red;
+	     font-family: comic sans ms;
+  font-size: 200%;
+}
+h4 {
+  color: rgb(48, 213, 133);
+  font-family: verdana;
+  font-size: 300%;
+  background-color: rgb(48, 158, 213);
+  opacity: 2;
+}
+h6 {
+  color: rgb(225, 255, 0);
+  font-family: malgun gothic;
+  font-size: 300%;
+  background-color: rgb(217, 180, 253);
+  opacity: 2;
+}
+h7 {
+  color: rgb(225, 255, 0);
+  font-family: malgun gothic;
+  font-size: 300%;
+  background-color: rgb(217, 180, 253);
+  opacity: 2;
+}
+body {
+  background-image: url('1071247.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
