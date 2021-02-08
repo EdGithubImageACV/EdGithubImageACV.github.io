@@ -65,6 +65,6 @@ h10 {
 body {
   background-image: url('1125589.jpg');
   background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: auto;
+  background-attachment: scroll;
+  background-size: cover;
 }
